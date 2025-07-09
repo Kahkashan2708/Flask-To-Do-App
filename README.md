@@ -13,7 +13,7 @@ A simple and stylish web-based To-Do list application built using **Flask** and 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 flask_todo_app/
@@ -22,7 +22,6 @@ flask_todo_app/
 │   └── style.css
 ├── templates/
 │   └── index.html
-├── venv/ (virtual environment)
 ```
 
 ---
