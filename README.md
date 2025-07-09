@@ -1,6 +1,6 @@
 # Flask To-do App
 
-A simple and stylish web-based To-Do list application built using **Flask** and **Python**. Users can add tasks, view their to-do list, and delete tasks — all with a clean UI and emoji enhancements.
+A simple and stylish web-based To-Do list application built using **Flask** and **Python**. Users can add tasks, view their to-do list, and delete tasks all with a clean UI and emoji enhancements.
 
 ---
 
